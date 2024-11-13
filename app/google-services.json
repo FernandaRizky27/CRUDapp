@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792057191106",
+    "project_id": "absenapp-83bbb",
+    "storage_bucket": "absenapp-83bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792057191106:android:7ddd18663e9b67e213395b",
+        "android_client_info": {
+          "package_name": "com.example.crudapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdhc-fOqVR5UTmCs0OP3L6PwfJL4o-M2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
